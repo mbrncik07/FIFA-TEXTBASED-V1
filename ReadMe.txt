@@ -15,6 +15,6 @@ Now that you have opened up the files and are able to use them, run Maingame.py!
 
 Now your game is underway!
 
-
+(New developments are being added to the game and the next update is due by October 2022) 
 
 Copyright Micah Bozic 2022
