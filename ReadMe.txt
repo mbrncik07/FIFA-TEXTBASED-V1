@@ -5,7 +5,7 @@ The Penalty Shootout game requires two players, while FIFA draft requires one pl
 SETUP:
 (In order to use these files and play, you need to have some sort of Python interpreter. If you want to run it without installing an application, go to: 
 www.online-python.com
-You then need to download all 4 Python files in this repository, and open all 4 of them in the online interpreter.
+You then need to download all 4 Python files (for example, "info.py") in this repository, and open all 4 of them in the online interpreter.
 
 
 If you have an application such as Visual Studio, or another IDE that can run Python, download all 4 of the Python files, 
